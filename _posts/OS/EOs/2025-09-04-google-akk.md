@@ -9,4 +9,5 @@ tags: [ElementaryOS]
 
 ## Краткий ответ: "Хочешь геморроя - продолжай настраивать google-аккаунт"
 
-Из [[https://www.reddit.com/r/elementaryos/comments/ndgi2q/will_it_be_possible_to_add_online_accounts_from/]](вопроса на reddit) и ответов на него, видно что лучше забить. Хочешь геморроя - продолжай настраивать google-аккаунт.
+Из [вопроса на Reddit](https://www.reddit.com/r/elementaryos/comments/ndgi2q/will_it_be_possible_to_add_online_accounts_from/) 
+и ответов на него, видно, что лучше забить. Хочешь геморроя - продолжай настраивать google-аккаунт.
