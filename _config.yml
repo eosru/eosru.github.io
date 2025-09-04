@@ -16,7 +16,7 @@ timezone:
 
 title: eosru # the main title
 
-tagline: Мои шпоргалки # it will display as the subtitle
+tagline: Мои шпаргалки # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
